@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson4StructClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4122C8F7-D3F7-48EB-A708-E4B66CEF50D6}|Lesson4StructClass\\Lesson4StructClass.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson4structclass\\lesson4structclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122C8F7-D3F7-48EB-A708-E4B66CEF50D6}|Lesson4StructClass\\Lesson4StructClass.csproj|solutionrelative:lesson4structclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01A390AC-1EF6-4C75-AD8B-04D91083E0F1}|ClassLibrary1\\ClassLibrary1.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson4structclass\\classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01A390AC-1EF6-4C75-AD8B-04D91083E0F1}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122C8F7-D3F7-48EB-A708-E4B66CEF50D6}|Lesson4StructClass\\Lesson4StructClass.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson4structclass\\lesson4structclass\\some.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122C8F7-D3F7-48EB-A708-E4B66CEF50D6}|Lesson4StructClass\\Lesson4StructClass.csproj|solutionrelative:lesson4structclass\\some.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4122C8F7-D3F7-48EB-A708-E4B66CEF50D6}|Lesson4StructClass\\Lesson4StructClass.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson4structclass\\lesson4structclass\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4122C8F7-D3F7-48EB-A708-E4B66CEF50D6}|Lesson4StructClass\\Lesson4StructClass.csproj|solutionrelative:lesson4structclass\\staticclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson4StructClass\\ClassLibrary1\\Class1.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Class1.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson4StructClass\\ClassLibrary1\\Class1.cs",
+              "RelativeToolTip": "ClassLibrary1\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:33:40.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StaticClass.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson4StructClass\\Lesson4StructClass\\StaticClass.cs",
+              "RelativeDocumentMoniker": "Lesson4StructClass\\StaticClass.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson4StructClass\\Lesson4StructClass\\StaticClass.cs",
+              "RelativeToolTip": "Lesson4StructClass\\StaticClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:25:21.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Some.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson4StructClass\\Lesson4StructClass\\Some.cs",
+              "RelativeDocumentMoniker": "Lesson4StructClass\\Some.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson4StructClass\\Lesson4StructClass\\Some.cs",
+              "RelativeToolTip": "Lesson4StructClass\\Some.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:16:00.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson4StructClass\\Lesson4StructClass\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson4StructClass\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson4StructClass\\Lesson4StructClass\\Program.cs",
+              "RelativeToolTip": "Lesson4StructClass\\Program.cs",
+              "ViewState": "AQIAAFsAAAAAAAAAAAAAAGQAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T13:16:00.359Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
