@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{96060E4C-FD0E-4E75-9B91-5CF927CBDC4A}|Homework\\Homework.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson5oop\\homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96060E4C-FD0E-4E75-9B91-5CF927CBDC4A}|Homework\\Homework.csproj|solutionrelative:homework\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson5oop\\abstraction\\models\\golden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\models\\golden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson5oop\\abstraction\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson5oop\\abstraction\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson5oop\\abstraction\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\models\\cat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson5oop\\abstraction\\models\\derivedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\models\\derivedclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson5oop\\abstraction\\models\\someclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\models\\someclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson5oop\\abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47A2932A-A2E4-47BA-ACA2-2CE11378DC6B}|Abstraction\\Abstraction.csproj|solutionrelative:abstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Homework\\Program.cs",
+              "RelativeDocumentMoniker": "Homework\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Homework\\Program.cs",
+              "RelativeToolTip": "Homework\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAmwC0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:32:51.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Golden.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\Golden.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Models\\Golden.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\Golden.cs",
+              "RelativeToolTip": "Abstraction\\Models\\Golden.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:25:43.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\Dog.cs",
+              "RelativeToolTip": "Abstraction\\Models\\Dog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:23:56.175Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Cat.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\Cat.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Models\\Cat.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\Cat.cs",
+              "RelativeToolTip": "Abstraction\\Models\\Cat.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:21:24.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DerivedClass.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\DerivedClass.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Models\\DerivedClass.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\DerivedClass.cs",
+              "RelativeToolTip": "Abstraction\\Models\\DerivedClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:16:38.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SomeClass.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\SomeClass.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Models\\SomeClass.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\SomeClass.cs",
+              "RelativeToolTip": "Abstraction\\Models\\SomeClass.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:14:59.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Models\\Animal.cs",
+              "RelativeToolTip": "Abstraction\\Models\\Animal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:11:01.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Program.cs",
+              "RelativeDocumentMoniker": "Abstraction\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson5OOP\\Abstraction\\Program.cs",
+              "RelativeToolTip": "Abstraction\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T13:10:20.055Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
