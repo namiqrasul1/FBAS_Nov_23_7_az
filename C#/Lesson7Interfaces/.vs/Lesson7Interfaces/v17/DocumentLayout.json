@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson7Interfaces\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E82AE4B-2AAE-45AA-BB2F-73A35D9C9F9D}|Lesson7Interfaces\\Lesson7Interfaces.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson7interfaces\\lesson7interfaces\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E82AE4B-2AAE-45AA-BB2F-73A35D9C9F9D}|Lesson7Interfaces\\Lesson7Interfaces.csproj|solutionrelative:lesson7interfaces\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E82AE4B-2AAE-45AA-BB2F-73A35D9C9F9D}|Lesson7Interfaces\\Lesson7Interfaces.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson7interfaces\\lesson7interfaces\\iclone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E82AE4B-2AAE-45AA-BB2F-73A35D9C9F9D}|Lesson7Interfaces\\Lesson7Interfaces.csproj|solutionrelative:lesson7interfaces\\iclone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E82AE4B-2AAE-45AA-BB2F-73A35D9C9F9D}|Lesson7Interfaces\\Lesson7Interfaces.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson7interfaces\\lesson7interfaces\\imusician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E82AE4B-2AAE-45AA-BB2F-73A35D9C9F9D}|Lesson7Interfaces\\Lesson7Interfaces.csproj|solutionrelative:lesson7interfaces\\imusician.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E82AE4B-2AAE-45AA-BB2F-73A35D9C9F9D}|Lesson7Interfaces\\Lesson7Interfaces.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson7interfaces\\lesson7interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E82AE4B-2AAE-45AA-BB2F-73A35D9C9F9D}|Lesson7Interfaces\\Lesson7Interfaces.csproj|solutionrelative:lesson7interfaces\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IClone.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson7Interfaces\\Lesson7Interfaces\\IClone.cs",
+              "RelativeDocumentMoniker": "Lesson7Interfaces\\IClone.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson7Interfaces\\Lesson7Interfaces\\IClone.cs",
+              "RelativeToolTip": "Lesson7Interfaces\\IClone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:55:06.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson7Interfaces\\Lesson7Interfaces\\User.cs",
+              "RelativeDocumentMoniker": "Lesson7Interfaces\\User.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson7Interfaces\\Lesson7Interfaces\\User.cs",
+              "RelativeToolTip": "Lesson7Interfaces\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:41:35.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IMusician.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson7Interfaces\\Lesson7Interfaces\\IMusician.cs",
+              "RelativeDocumentMoniker": "Lesson7Interfaces\\IMusician.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson7Interfaces\\Lesson7Interfaces\\IMusician.cs",
+              "RelativeToolTip": "Lesson7Interfaces\\IMusician.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:40:02.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson7Interfaces\\Lesson7Interfaces\\Program.cs",
+              "RelativeDocumentMoniker": "Lesson7Interfaces\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson7Interfaces\\Lesson7Interfaces\\Program.cs",
+              "RelativeToolTip": "Lesson7Interfaces\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-04T13:27:23.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
