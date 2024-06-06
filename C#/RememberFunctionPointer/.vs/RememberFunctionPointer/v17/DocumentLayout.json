@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\RememberFunctionPointer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9D30222-1546-4C24-95E0-683866129911}|RememberFunctionPointer\\RememberFunctionPointer.vcxproj|C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\RememberFunctionPointer\\RememberFunctionPointer\\RememberFunctionPointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A9D30222-1546-4C24-95E0-683866129911}|RememberFunctionPointer\\RememberFunctionPointer.vcxproj|solutionrelative:RememberFunctionPointer\\RememberFunctionPointer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 235,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RememberFunctionPointer.cpp",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\RememberFunctionPointer\\RememberFunctionPointer\\RememberFunctionPointer.cpp",
+              "RelativeDocumentMoniker": "RememberFunctionPointer\\RememberFunctionPointer.cpp",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\RememberFunctionPointer\\RememberFunctionPointer\\RememberFunctionPointer.cpp",
+              "RelativeToolTip": "RememberFunctionPointer\\RememberFunctionPointer.cpp",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAmwBgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-06T11:51:16.8Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
