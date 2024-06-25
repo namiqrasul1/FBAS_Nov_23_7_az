@@ -45,9 +45,20 @@ internal class Program
 
         // validations
 
-        if (!UserManager.Login(email!, password!))
+        //if (!UserManager.Login(email!, password!))
+        //{
+        //    Console.WriteLine("Invalid email or password");
+        //    Thread.Sleep(2000);
+        //    goto Login;
+        //}
+
+        try
         {
-            Console.WriteLine("Invalid email or password");
+            UserManager.Login(email!, password!);
+        }
+        catch (Exception ex)
+        {
+            Console.WriteLine(ex.Message);
             Thread.Sleep(2000);
             goto Login;
         }

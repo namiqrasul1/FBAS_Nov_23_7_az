@@ -1,4 +1,6 @@
-﻿namespace Lesson13LoginRegister.Models
+﻿using Lesson13LoginRegister.Models.Enums;
+
+namespace Lesson13LoginRegister.Models
 {
     internal class User
     {
@@ -8,6 +10,7 @@
         public string Email { get; set; }
         public string Password { get; set; }
         public DateOnly DateOfBirth { get; set; }
+        public UserStatus Status { get; set; } = UserStatus.NonVerificated;
 
     }
 }

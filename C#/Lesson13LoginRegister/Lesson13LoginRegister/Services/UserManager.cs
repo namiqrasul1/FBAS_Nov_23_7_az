@@ -1,4 +1,5 @@
 ﻿using Lesson13LoginRegister.Models;
+using Lesson13LoginRegister.Models.Enums;
 using System.Text.Json;
 
 namespace Lesson13LoginRegister.Services
@@ -44,17 +45,27 @@ namespace Lesson13LoginRegister.Services
             throw new Exception("User already exist");
         }
 
-        public static bool Login(string email, string password)
+        public static void Login(string email, string password)
         {
             User = Users.FirstOrDefault(u => u.Email == email.ToLower().Trim() && u.Password == password);
-
-            return User is not null;
+            if (User is null) throw new Exception("Invalid email or password");
+            if (User.Status == UserStatus.NonVerificated) throw new Exception("Firstly verify you account");
+            if (User.Status == UserStatus.Deleted) User.Status = UserStatus.Active;
 
         }
 
         public static void Logout()
         {
             User = null;
+        }
+
+        public static void Remove()
+        {
+            if (User is null) throw new Exception("invalid user");
+            Users.Remove(User);
+
+            var json = JsonSerializer.Serialize(Users);
+            File.WriteAllText("users.json", json);
         }
     }
 }
