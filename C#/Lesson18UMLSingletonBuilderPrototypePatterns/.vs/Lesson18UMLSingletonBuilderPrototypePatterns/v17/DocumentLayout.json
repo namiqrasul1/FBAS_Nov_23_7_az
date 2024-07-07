@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson18UMLSingletonBuilderPrototypePatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6928F7AE-20EB-4DD6-970A-5484E3C64557}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson18umlsingletonbuilderprototypepatterns\\builderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6928F7AE-20EB-4DD6-970A-5484E3C64557}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6928F7AE-20EB-4DD6-970A-5484E3C64557}|BuilderPattern\\BuilderPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson18umlsingletonbuilderprototypepatterns\\builderpattern\\housebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6928F7AE-20EB-4DD6-970A-5484E3C64557}|BuilderPattern\\BuilderPattern.csproj|solutionrelative:builderpattern\\housebuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HouseBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson18UMLSingletonBuilderPrototypePatterns\\BuilderPattern\\HouseBuilder.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\HouseBuilder.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson18UMLSingletonBuilderPrototypePatterns\\BuilderPattern\\HouseBuilder.cs",
+              "RelativeToolTip": "BuilderPattern\\HouseBuilder.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAkwDUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T11:05:21.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson18UMLSingletonBuilderPrototypePatterns\\BuilderPattern\\Program.cs",
+              "RelativeDocumentMoniker": "BuilderPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson18UMLSingletonBuilderPrototypePatterns\\BuilderPattern\\Program.cs",
+              "RelativeToolTip": "BuilderPattern\\Program.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAkwCoAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-07T10:58:57.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
