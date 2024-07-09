@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{86FAFCB2-82E8-4C3F-822D-0ADC03F4261C}|AdapterPattern\\AdapterPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson19structuralpatterns\\adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FAFCB2-82E8-4C3F-822D-0ADC03F4261C}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FAFCB2-82E8-4C3F-822D-0ADC03F4261C}|AdapterPattern\\AdapterPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson19structuralpatterns\\adapterpattern\\controlpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86FAFCB2-82E8-4C3F-822D-0ADC03F4261C}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\controlpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86FAFCB2-82E8-4C3F-822D-0ADC03F4261C}|AdapterPattern\\AdapterPattern.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson19structuralpatterns\\adapterpattern\\adapterpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{86FAFCB2-82E8-4C3F-822D-0ADC03F4261C}|AdapterPattern\\AdapterPattern.csproj|solutionrelative:adapterpattern\\adapterpattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5669DF6B-C985-44C7-B16A-269E5005F8FD}|FlyWeight\\FlyWeight.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson19structuralpatterns\\flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5669DF6B-C985-44C7-B16A-269E5005F8FD}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5669DF6B-C985-44C7-B16A-269E5005F8FD}|FlyWeight\\FlyWeight.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson19structuralpatterns\\flyweight\\treefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5669DF6B-C985-44C7-B16A-269E5005F8FD}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\treefactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5669DF6B-C985-44C7-B16A-269E5005F8FD}|FlyWeight\\FlyWeight.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson19structuralpatterns\\flyweight\\treetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5669DF6B-C985-44C7-B16A-269E5005F8FD}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\treetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5669DF6B-C985-44C7-B16A-269E5005F8FD}|FlyWeight\\FlyWeight.csproj|c:\\users\\namiqrasullu\\desktop\\fbas_nov_23_7_az\\c#\\lesson19structuralpatterns\\flyweight\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5669DF6B-C985-44C7-B16A-269E5005F8FD}|FlyWeight\\FlyWeight.csproj|solutionrelative:flyweight\\tree.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControlPanel.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\AdapterPattern\\ControlPanel.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\ControlPanel.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\AdapterPattern\\ControlPanel.cs",
+              "RelativeToolTip": "AdapterPattern\\ControlPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:56:05.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\AdapterPattern\\Program.cs",
+              "RelativeDocumentMoniker": "AdapterPattern\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\AdapterPattern\\Program.cs",
+              "RelativeToolTip": "AdapterPattern\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:56:02.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdapterPattern",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\AdapterPattern\\AdapterPattern.csproj",
+              "RelativeDocumentMoniker": "AdapterPattern\\AdapterPattern.csproj",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\AdapterPattern\\AdapterPattern.csproj",
+              "RelativeToolTip": "AdapterPattern\\AdapterPattern.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T10:55:57.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TreeFactory.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\FlyWeight\\TreeFactory.cs",
+              "RelativeDocumentMoniker": "FlyWeight\\TreeFactory.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\FlyWeight\\TreeFactory.cs",
+              "RelativeToolTip": "FlyWeight\\TreeFactory.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAnwAsAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:43:57.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TreeType.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\FlyWeight\\TreeType.cs",
+              "RelativeDocumentMoniker": "FlyWeight\\TreeType.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\FlyWeight\\TreeType.cs",
+              "RelativeToolTip": "FlyWeight\\TreeType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:41:32.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Tree.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\FlyWeight\\Tree.cs",
+              "RelativeDocumentMoniker": "FlyWeight\\Tree.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\FlyWeight\\Tree.cs",
+              "RelativeToolTip": "FlyWeight\\Tree.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAqwBMAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:41:01.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\FlyWeight\\Program.cs",
+              "RelativeDocumentMoniker": "FlyWeight\\Program.cs",
+              "ToolTip": "C:\\Users\\namiqrasullu\\Desktop\\FBAS_Nov_23_7_az\\C#\\Lesson19StructuralPatterns\\FlyWeight\\Program.cs",
+              "RelativeToolTip": "FlyWeight\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:39:58.487Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
